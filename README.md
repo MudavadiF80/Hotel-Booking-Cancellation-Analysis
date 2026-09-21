@@ -27,6 +27,18 @@ The original dataset contained **119,390 bookings**. After cleaning (handling mi
 ### 3. Top 10 Countries
 ![Top_10_Countries](https://github.com/MudavadiF80/Hotel-Booking-Cancellation-Analysis/blob/main/Images/countries.png)
 
+
+## Strategic Recommendations
+Based directly on the findings in the analysis, the following operational adjustments are recommended:
+
+* **Implement an Overbooking Strategy:** Because the cancellation rate is 27.6% (meaning 1 in 3 bookings is cancelled), management must utilize an overbooking strategy to ensure the hotel is full on a given night.
+* **Adjust Resource Planning:** The hotel cannot rely on the initial booking numbers for staffing and food ordering. 
+* **Account for Hotel Type Volatility:** Operations should anticipate greater volatility in city properties.
+
+## 🛠 Tools & Skills Demonstrated
+* **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Skills:** Data Cleaning (handling nulls/duplicates), Feature Engineering, Exploratory Data Analysis (EDA), Data Visualization, and Business Analytics.
+
 🚀 How to Run the Project
 Clone the repository:
 
